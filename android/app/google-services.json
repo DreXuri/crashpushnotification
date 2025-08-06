@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915144703664",
+    "project_id": "pushcrash-efff3",
+    "storage_bucket": "pushcrash-efff3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915144703664:android:809b0a9543ee421f280575",
+        "android_client_info": {
+          "package_name": "com.example.crashes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9dWuW-pO3SrO5mBEbqXJNgTkQ1In0oB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
